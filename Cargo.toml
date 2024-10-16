@@ -1,7 +1,13 @@
 [package]
-name = "rpresence"
-version = "0.1.0"
+authors = ["vyfor"]
+categories = ["game-development"]
+description = "Dependency-free, cross-platform Rust crate for Discord Rich Presence interaction"
 edition = "2021"
+keywords = ["discord-rich-presence", "discord", "rich-presence", "rpc", "ipc"]
+license = "MIT"
+name = "rpresence"
+repository = "https://github.com/vyfor/rpresence"
+version = "0.0.1"
 
 # [lib]
 # crate-type = ["cdylib"]
